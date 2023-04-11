@@ -7,3 +7,5 @@ In this Machine Learning Project, I used unsupervised learning method which is c
 - [x] How the select the best hyperparameters for K-Means Clustering?<br>
 - [x] How to get the Hierarchical Agglomerative Bottom-up approach of clustering?<br>
 - [x] How to display and visualize data in the most honest and friendly way to our stakeholders?<br>
+
+[Click Here to Watch the Explanation that i submitted to my course teacher](https://drive.google.com/file/d/10ulPx8lXudvl4MYBElBvI8Au8x6W6RaH/view?usp=sharing)
